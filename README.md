@@ -6,3 +6,4 @@ Python 3.5.3 버전을 기준으로 합니다.
 ## References
 - Python 공식 문서 https://docs.python.org/3.5/
 - Dive into Python3 http://www.diveintopython3.net/
+- Dive into Python3 한국어 번역 https://juehan.github.io/DiveIntoPython3_Korean_Translation/

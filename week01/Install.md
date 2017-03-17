@@ -45,7 +45,7 @@
 1. `pep8` 패키지를 설치해보세요.
 2. `pep8` 패키지를 포함한 requirements 파일을 만들어보세요.
 3. `pep8` 패키지를 삭제하세요.
-4. requirementst 패키지를 이용해 `pep8` 패키지를 설치해보세요.
+4. requirement 파일을 이용해 패키지를 설치해보세요.
 
 ## virtualenv
 - `virtualenv`는 고립된 파이썬 환경을 만드는 데 사용하는 도구
