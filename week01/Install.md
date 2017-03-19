@@ -17,7 +17,7 @@
 
 ---
 
-## Unix 게열
+## Unix 계열
 기본적으로 Python이 설치되어 있기는 하지만 [pyenv](https://github.com/pyenv/pyenv)를 사용하면 더욱 쉽게 설치 및 버전 별 관리가 가능함.
 
 - https://github.com/pyenv/pyenv-installer#github-way-recommended
@@ -58,8 +58,8 @@
 ## pip practice
 1. `pep8` 패키지를 설치해보세요.
 2. `pep8` 패키지를 포함한 requirements 파일을 만들어보세요.
-3. `pep8` 패키지를 삭제하세요.
-4. requirement 파일을 이용해 패키지를 설치해보세요.
+3. `pep8` 패키지를 삭제하세요. (`pip uninstall pep8`)
+4. requirement 파일을 이용해 패키지를 설치해보세요. (`pip install -r requirements.txt`)
 
 ---
 
@@ -98,7 +98,7 @@
 ---
 
 6. `flask`라는 패키지를 설치하세요.
-7. 아래 코드를 `app.py`라는 파일로 만들고 `python hello.py`로 실행해보세요.
+7. 아래 코드를 `hello.py`라는 파일로 만들고 `python hello.py`로 실행해보세요.
 ```python
 from flask import Flask
 app = Flask(__name__)
